@@ -1,1 +1,1 @@
-# CS_502061-Applied-Probability-And-Statistics-For-IT
+# CS_502061-Applied-Probability-and-Statistics-for-IT
